@@ -1,0 +1,6 @@
+{
+  "name": "Nawaloka KPI Evaluation System",
+  "description": "Hospital-wide Balanced Scorecard (BSC) KPI evaluation and strategic performance management system for Nawaloka Hospitals PLC, Colombo, Sri Lanka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
