@@ -43,7 +43,7 @@ export const Header: React.FC<HeaderProps> = ({ onToggleSidebar, isSidebarOpen }
               </span>
             </div>
             <p className="text-xs font-semibold text-[#1A9BB0] dark:text-teal-400 uppercase tracking-wider">
-              Balanced Scorecard KPI Evaluation System
+               KPI Evaluation System
             </p>
           </div>
         </div>
